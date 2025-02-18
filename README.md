@@ -12,7 +12,7 @@
 ### Introduction
 
 In this project, I will show you how I created a S3 bucket using Terraform. The
-goal is to cut out the manual work out of creating new resources in the cloud, which reduces the chances of errors.
+goal is to cut out the manual work of creating new resources in the cloud, which reduces the chances of errors.
 
 ### What is Terraform?
 
