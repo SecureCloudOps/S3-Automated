@@ -81,7 +81,6 @@ machine.
 
 ![Image](https://imgur.com/CpZ3Ljb.png)
 
-![Image](https://imgur.com/pG2dedb.png)
 
 ### Lanching the S3 Bucket
 
